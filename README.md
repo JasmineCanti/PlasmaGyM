@@ -1,2 +1,2 @@
 # PlasmaGyM
- vacuum linear machine GyM for plasma production and measurement of plasma potential, density and temperature
+ Progam for vacuum linear machine GyM, plasma production and measurement of plasma potential, density and temperature
